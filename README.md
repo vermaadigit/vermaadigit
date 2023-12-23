@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/adityaverma2003" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="adityaverma2003" height="30" width="40" /></a>
 <a href="https://instagram.com/aditya.php" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="aditya.php" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/adityavit2003" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="adityavit2003" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/adityaverma_2021" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/adityaverma_2021" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" height="30" width="30" /></a>
 <a href="https://auth.geeksforgeeks.org/user/adityav0cse/profile" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="adityav0cse/profile" height="30" width="40" /></a>
 </p>
 
