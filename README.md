@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vermaadigit&label=Profile%20views&color=0e75b6&style=flat" alt="vermaadigit" /> </p>
 
+<p align="left"> <a href="https://twitter.com/adityav06036629" target="blank"><img src="https://img.shields.io/twitter/follow/adityav06036629?logo=twitter&style=for-the-badge" alt="adityav06036629" /></a> </p>
+
 - 🌱 I’m currently learning **Advance DSA and MERN**
 
 - 👨‍💻 All of my projects are available at [https://vermaadigit.github.io/My_Portfolio/](https://vermaadigit.github.io/My_Portfolio/)
