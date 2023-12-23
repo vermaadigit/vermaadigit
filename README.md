@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vermaadigit&label=Profile%20views&color=0e75b6&style=flat" alt="vermaadigit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vermaadigit" alt="vermaadigit" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/adityav06036629" target="blank"><img src="https://img.shields.io/twitter/follow/adityav06036629?logo=twitter&style=for-the-badge" alt="adityav06036629" /></a> </p>
-
 - 🌱 I’m currently learning **Advance DSA and MERN**
 
 - 👨‍💻 All of my projects are available at [https://vermaadigit.github.io/My_Portfolio/](https://vermaadigit.github.io/My_Portfolio/)
@@ -18,6 +14,12 @@
 - 📫 How to reach me **adityasinha112233@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vermaadigit" alt="vermaadigit" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/adityav06036629" target="blank"><img src="https://img.shields.io/twitter/follow/adityav06036629?logo=twitter&style=for-the-badge" alt="adityav06036629" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
