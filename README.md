@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Advance DSA and MERN**
 
-- 👨‍💻 All of my projects are available at [https://vermaadigit.github.io/My_Portfolio/](https://vermaadigit.github.io/My_Portfolio/)
+- 👨‍💻 Here is my Portfolio [https://vermaadigit.github.io/My_Portfolio/](https://vermaadigit.github.io/My_Portfolio/)
 
 - 💬 Ask me about **MERN , Algorithm**
 
@@ -19,12 +19,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/adityav06036629" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityav06036629" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adityaverma2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityaverma2003" height="30" width="40" /></a>
-<a href="https://instagram.com/aditya.php" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya.php" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/adityavit2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityavit2003" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/adityaverma_2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adityaverma_2021" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/adityav0cse/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adityav0cse/profile" height="30" width="40" /></a>
+<a href="https://twitter.com/adityav06036629" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityav06036629" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adityaverma2003" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityaverma2003" height="30" width="40" /></a>
+<a href="https://instagram.com/aditya.php" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya.php" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/adityavit2003" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityavit2003" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/adityaverma_2021" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adityaverma_2021" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/adityav0cse/profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adityav0cse/profile" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vermaadigit" alt="vermaadigit" /></a> </p>
