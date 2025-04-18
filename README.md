@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **MERN , Algorithm**
 
-- 📫 How to reach me **adityasinha112233@gmail.com**
+- 📫 How to reach me **adityavermahjp@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
